@@ -19,7 +19,7 @@
     Learning institute KMUTT website using <b>Wordpress</b> and adjusting template by <b>PHP</b>.
   </li> 
   <li>
-    Working on build 2B-KMUTT website using <b>nextjs</b>.
+    Working on building 2B-KMUTT website using <b>nextjs</b>.
   </li> 
 </ul>
 <h3 align="left">Languages and Tools:</h3>
