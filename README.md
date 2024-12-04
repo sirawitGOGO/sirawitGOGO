@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sirawit Arsanok</h1>
 <h3 align="center">Currently studying Computer Engineering at the Faculty of Engineering @ KMUTT</h3>
 
-- 🌱 I’m currently learning **express , nextjs , flutter**
+- 🌱 I’m currently learning **express , nextjs , flutter , prisma**
 
 - 💬 Ask me about **react , tailwind**
 
