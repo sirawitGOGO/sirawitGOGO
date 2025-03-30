@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang, Flutter, Unit test with jest, Authentication, Middleware**
 
-- 💬 Ask me about **React, Nodejs, Expressjs, Nextjs, PostgreSQL, MongoDB**
+- 💬 Ask me about **React, Nodejs, Expressjs, Nextjs, PostgreSQL, MongoDB, Prisma ORM**
 
 - 📫 How to reach me **sirawitarsanok@gmail.com**
 
