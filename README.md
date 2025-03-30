@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [2B-KMUTT 19 Future Leader Camp](https://2bcamp.kmutt.ac.th/)
 
-- 🌱 I’m currently learning **Golang, Flutter, Unit test with jest**
+- 🌱 I’m currently learning **Golang, Flutter, Unit test with jest, Authentication, Middleware**
 
-- 💬 Ask me about **React, Nodejs, Nextjs, PostgreSQL**
+- 💬 Ask me about **React, Nodejs, Expressjs, Nextjs, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **sirawitarsanok@gmail.com**
 
