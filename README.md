@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Internship at House of dev Technologyu<br>🌱 I’m currently learning Golang, Flutter, Unit test with jest, Authentication, Middleware<br>💬 Ask me about  React, Nodejs, Expressjs, Nextjs, PostgreSQL, MongoDB, Prisma ORM<br>⚡ Fun fact https://sirawit-portfolio-lyart.vercel.app/
+<br>⚡ Fun fact https://sirawit-portfolio-lyart.vercel.app/
 
 
 ## 🌐 Socials:
