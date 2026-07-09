@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently interesting in Devops<br>🌱 I’m currently learning Golang API, C# .net
+🔭 I’m currently interesting in Devops<br>🌱 I’m currently learning Golang, .net
 
 
 ## 🌐 Socials:
