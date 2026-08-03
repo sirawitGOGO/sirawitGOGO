@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently interesting in Devops<br>🌱 I’m currently learning Golang, .net
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sirawit-arsanok-profile) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sirawitarsanok@gmail.com) 
 
